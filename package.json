@@ -1,0 +1,6 @@
+{
+    "version": "0.1",
+    "urls": [
+        ["typing.py", "github:North101/micropython-typing/typing.py"]
+    ]
+}
