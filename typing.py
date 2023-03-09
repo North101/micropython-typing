@@ -1,5 +1,7 @@
 from collections import namedtuple
 
+TYPE_CHECKING = False
+
 
 class _Subscriptable:
   def __getitem__(self, sub):
